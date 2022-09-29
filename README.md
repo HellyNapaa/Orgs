@@ -1,8 +1,6 @@
 ![Thumbnails GitHub](https://user-images.githubusercontent.com/9091491/123842348-0e116c80-d8e7-11eb-8618-9c15cc743335.png)
 
-![](https://img.shields.io/github/license/nataliakt/alura-react-native-comecando-do-zero)
-
-# ⚛️ React Native: Começando do Zero
+# ⚛️ Projeto de React Native: Começando do Zero
 
 Esse é o projeto do curso **Começando do Zero** da formação em **React Native** na [Alura](https://www.alura.com.br/).
 
@@ -12,7 +10,7 @@ Este projeto implementa a tela de detalhes da cesta do e-commerce *orgs*. Nesta 
 
 <img src="https://user-images.githubusercontent.com/9091491/123982988-e3ccb700-d999-11eb-880e-872881ee8b10.gif" width="350" />
 
-## 🧑‍💻 Técnicas e Tecnologias
+## 🧑‍💻 Técnicas e Tecnologias adquiridas neste curso:
 
 As técnicas e tecnologias utilizadas no projeto são:
 
@@ -50,14 +48,6 @@ Então com o `npm` instalado podemos instalar o `expo` e checar a versão:
 ```
 npm install --global expo-cli
 expo --version
-```
-
-### 🐙 Clonando o projeto
-
-Para ter acesso aos arquivos do projeto você pode clonar usando o seguinte comando:
-
-```
-git clone https://github.com/alura-cursos/react-native-comecando-do-zero.git
 ```
 
 ### ▶️ Rodando o Projeto
